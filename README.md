@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kolibri55
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Foundations of coding @TheOdinProject and Javascript @Codecademy
-- 💞️ I’m looking to collaborate on Team projects for new coding students
+- 💞️ I’m looking to collaborate on Team projects by new coding students
 - 📫 How to reach me email me at Kolibri75@outlook.com
 
 <!---
